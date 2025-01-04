@@ -7,3 +7,7 @@ console.log(name);
 function greet(name){
     console.log('Hello '+name);
 };
+function newFnn(){
+    console.log('This is a new function');
+    
+}
