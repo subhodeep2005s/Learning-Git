@@ -5,3 +5,6 @@ function greet(name,age){
 function isAvobe18(){
     return age>18;
 }
+function greet(){
+    console.log('Hello');
+}
